@@ -1,13 +1,13 @@
 3.1 Are the...
   1. Water boils at 100 degrees Celsius. (Ok)
   2. The water boiled. Can you turn it off? (Not ok)
-  3. Look! That man trying to open the door of your car. (Not ok)
+  3. Look! That man is trying to open the door of your car. (Not ok)
   4. Can you hear those people? What are they talking about? (Not ok)
   5. The moon goes round the earth in about 27 days. (Ok)
   6. I must go now. It is getting late. (Not ok)
   7. I usually go to work by car. (Ok)
   8. 'Hurry up! It's time to leave.' 'Ok, I'm coming' (Not ok)
-  9. I hear you've got a new job. How do you get on? (Ok)
+  9. I hear you've got a new job. How are you getting on? (Ok)
   10. Paul is never late. He always gets to work on time. (Not ok)
   11. They don't get on well. They always argue. (Not ok)
 

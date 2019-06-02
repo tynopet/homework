@@ -19,7 +19,7 @@
   4. What does she do? She's a dentist.
   5. I don't want to go out. It is raining.
   6. Where do you come from? From Canada.
-  7. How much is it cost to send a letter to Canada?
+  7. How much does it cost to send a letter to Canada?
   8. I can't talk to you at the moment. I'm working.
   9. George is a good tennis player, but he doesn't play very often.
 
@@ -28,10 +28,10 @@
   2. Tom is having a shower at the moment.
   3. They don't watch television very often.
   4. Listen! Somebody is singing.
-  5. She's tired. She's want to go home now.
+  5. She's tired. She wants to go home now.
   6. How often do you read a newspaper?
   7. Excuse me, but you are sitting in my place. Oh, I'm sorry.
-  8. I'm sorry, I'm not understanding. Please speak more slowly.
+  8. I'm sorry, I don't understand. Please speak more slowly.
   9. Where are you, Roy? I'm in the sitting-room. I'm reading.
   10. What time does she finish work every day?
   11. You can turn off the radio. I'm not listening to it.
