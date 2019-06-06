@@ -19,7 +19,7 @@
   6. I usually do the shopping on Saturday morning.
   7. They both want to make money.
   8. When are they making a decision?
-  9. I think she had a rest last night. (?)
+  9. I think she had a nice time last night. (?)
   10. She is definitely making progress. How many driving lessons has she had now?
 
 19.3 Look...

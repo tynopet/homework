@@ -13,9 +13,9 @@
 4.2
   1. You don't seem very happy today.
   2. What are you doing? Be quiet! I'm thinking.
-  3. Who this umbrella belongs to? I have no idea.
+  3. Who does this umbrella belong to? I have no idea.
   4. The dinner smells good.
-  5. Excuse me. Anybody is sitting there? No, it's free.
+  5. Excuse me. Is anybody sitting there? No, it's free.
   6. These gloves don't fit me. They're too small.
 
 4.3
@@ -26,8 +26,8 @@
   5. I think this is your key. Am I right? (Not ok)
 
 4.4
-  1. I can't understand why he's being so selfish. He isn't unusually like that.
+  1. I can't understand why he's being so selfish. He isn't usually like that.
   2. Sarah is being very nice to me at the moment. I wonder why.
   3. You'll like Sophie when you meet her. She is very nice.
-  4. You're usually very patient, so why you are being so unreasonable about waiting ten minutes more.
+  4. You're usually very patient, so why are you being so unreasonable about waiting ten more minutes.
   5. Why isn't Steve at work today? Is he ill?
