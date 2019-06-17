@@ -5,7 +5,7 @@
   4. language - languages
   5. watch - watches
   6. country - countries
-  7. knife - knifes
+  7. knife - knives
   8. woman - women
   9. address - addresses
   10. sheep - sheep
@@ -50,14 +50,14 @@
   9. He put on his pyjamas and went to bed.
   10. We went fishing but we didn't catch many fish.
   11. There were three people in the car, two women and a man.
-  12. I like your trousers. Where did you get it?
+  12. I like your trousers. Where did you get them?
   13. The town centre is usually full of tourists.
-  14. This scissors isn't very sharp.
+  14. These scissors aren't very sharp.
 
 60.4 
   1. It's a nice place. Many people go there for a holiday.
   2. Some people are always late.
-  3. The president is not popular. The people don't like them. (Why "The people"?)
+  3. The president is not popular. The people don't like him. (Why "The people"?)
   4. A lot of people watch television every day.
   5. Three people were killed in the accident.
   6. How many people live in that house?

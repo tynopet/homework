@@ -36,4 +36,4 @@
   15. Do you ever go to church?
   16. Excuse me, can you tell me where the post office is?
   17. Why is Angela always late for work?
-  18. Why is he in prison? He didn't anything wrong. (Because he lives in Russia).
+  18. Why is he in prison? He didn't do anything wrong. (Because he lives in Russia).
