@@ -2,7 +2,7 @@
   1. I bought a hat, some shoes, and some perfume.
   2. I bought a newspaper, a lighter and some matches.
   3. I bought a loaf of bread, some postcards, and some stamps.
-  4. I bought a pen, some toothpaste, and some battery
+  4. I bought a pen, some toothpaste, and some batteries
 
 62.2
   1. Would you like some cheese?

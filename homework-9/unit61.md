@@ -7,7 +7,7 @@
   6. a toothbrush
   7. a cup
   8. money
-  9. a soap
+  9. soap
   10. a bucket
   11. sand
   12. a credit card

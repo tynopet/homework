@@ -23,7 +23,7 @@
   5. Enjoy your holiday and don't forget to send me a postcard!
   6. Have you got a ticket for the concert tomorrow night?
   7. What is the name of the director of the film we saw last night?
-  8. Yesterday I bought a jacket and a shirt. The Jacket was cheap, but the shirt was expensive.
+  8. Yesterday I bought a jacket and a shirt. The jacket was cheap, but the shirt was expensive.
   9. Peter and Mary have two children, a boy and a girl. The boy is seven years old and the girl is three.
 
 63.3
