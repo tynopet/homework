@@ -9,7 +9,7 @@
 12.2
   1. At 9.44 she was washing her car.
   2. At 11.45 she was swimming.
-  3. At 9 o'clock was reading a newspaper.
+  3. At 9 o'clock she was reading a newspaper.
   4. At 12.50 she was cooking lunch.
   5. At 8.15 she was having breakfast.
   6. At 10.30 she was listening to music.
