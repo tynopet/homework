@@ -28,5 +28,5 @@
   2. He has been in hospital since Sunday.
   3. They have been watching television for two hours.
   4. It has been raining all day.
-  5. She has been lived in Wales all her life.
-  6. He has been had a beard for five years.
+  5. She has been living in Wales all her life.
+  6. He has had a beard for five years.
