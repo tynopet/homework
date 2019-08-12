@@ -1,0 +1,5 @@
+Hello Alina! I have been on a trip to Minsk and in this letter, I tell you about it.
+When I was at the conference, named "Beer Js Summit" my Belorussian friend, Irina, invited me on a trip in Nesvizh and Mir. When I backed to Moscow and quit, I thought about my free time and decided back to Minsk through two weeks.
+I arrived in Minsk on Friday and on Saturday we went to Nesvizh by train. Nesvizh is a city with a castle saved from the sixteenth century. We visited the town hall, old gate to Slutsk and castle. It was interesting. I felt myself in Europe because of architecture. I liked the town pointers, like a dick, history about Randzevill family and theatre. After that, we sat on a train and went to Minsk.
+On Sunday we went to Minsk Sea by train. It was a typical water reservation on post-soviet space. But there was a beach and people engaged in sailing. After that, we came back to Minsk and cycled from the city center to MKAD and back.
+On Monday I arrived in Moscow. I liked my trip to Belarus and want to come back that see Mir and Brest.
