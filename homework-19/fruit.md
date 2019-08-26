@@ -16,7 +16,7 @@
 3.
   Salmon because it is a fish
   Salmon because it doesn't have a shell
-  Aubergine because it doesn't include in a salad
+  Aubergine because it is not in a salad
   Peach because it is a fruit
   Mussels because they are a shellfish
 
@@ -40,11 +40,11 @@
     mangoes (? I have never tried mango)
 
 5.
-  In my country tomatoes is more common than mangoes
-  In my country pork is more expensive than chicken
+  In my country tomatoes are more common than mangoes.
+  In my country pork is more expensive than chicken.
   In my country, a mixed salad usually contains cucumbers, tomatoes, and oil.
-  In my country, we don't grow bananas
-  And we don't often eat pineapples
-  Personally, I prefer the carrot to mushrooms
-  I love cherry but I don't really like shellfish
-  My favorite meat is chicken
+  In my country, we don't grow bananas.
+  And we don't often eat pineapples.
+  Personally, I prefer carrots to mushrooms.
+  I love cherry but I don't really like shellfish.
+  My favorite meat is chicken.
