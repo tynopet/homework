@@ -1,14 +1,14 @@
 64.1
   1. doctor, surgeon, architect, engineer
-  2. solider, firefighter
+  2. soldier, firefighter
   3. sailor
   4. mechanic
-  5. surgeon, solider, firefighter, police officer
+  5. surgeon, soldier, firefighter, police officer
   6. vet
   7. pilot
   8. architect, engineer, accountant
-  9. surgeon, vet, solider
-  10. solider
+  9. surgeon, vet, soldier
+  10. soldier
 
 64.2
   An architect designs buildings
@@ -25,10 +25,10 @@
 64.3
   1. He's a policeman.
     Really? When did he join the police force?
-  2. He's a solider.
+  2. He's a soldier.
     Really? When did he join the army?
   3. He's a salior.
-    Really? When did he join the police fleet?
+    Really? When did he join the fleet?
   4. He's firefighter.
     Really? When did he join the fire brigade?
 
@@ -41,6 +41,7 @@
   An engineer to make a plan the building
 
 64.5
-  My father is an engineer. My mother is a civil servant.
+  My father is an engineer.
+  My mother is a civil servant.
   My friend Roman is a fronted-developer.
   
