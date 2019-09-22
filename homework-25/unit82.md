@@ -21,7 +21,7 @@
 82.3
   1. Martin decided to grow a beard because he was fed up with shaving.
   2. I wasn't very well yesterday, but I feel much better today.
-  3. I climbed out to the swimming pool and dried myself with a towel.
+  3. I climbed out of the swimming pool and dried myself with a towel.
   4. I tried to study, but I couldn't concentrate.
   5. If somebody attacks you, you need to be able to defend yourself.
   6. I'm going out with Chris this evening. We're meeting at 7.30.
@@ -43,4 +43,4 @@
   2. Who cuts Brian's hair for him? Nobody. He cuts it himself.
   3. Do you want me to tell Amy about your idea? No, I'll tell her myself.
   4. Who told you that Linda was going away. Linda told me herself.
-  5. Can you phone John for me? Why can't you phone himself?
+  5. Can you phone John for me? Why can't you phone yourself?
