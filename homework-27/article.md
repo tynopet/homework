@@ -1,6 +1,6 @@
 Past simple:
   This morning I was once again awakened by the ominous sound of a hard, periodic tapping on the glass door downstairs.
-Past perfect continuous:
+Present perfect continuous:
   This has been going on for weeks, every day around 7:00 a.m., which is evidently the hour when the light strikes the window at such an angle that this dumb silly bird sees his own reflection in the glass (and yes I am assuming this bird’s gender — no girl bird would be this aggressive or territorial or dumb) and, identifying it as an enemy bird, attacks it.
 Present simple:
   I can’t help but pause at the crossroads to consider the two irrevocable, radically different futures I have to choose between for this last third of my life.

@@ -33,12 +33,12 @@
   cupboard
 
 50.4
-  1. He put the palates into the cupboard
-  2. I took the ham of the fridge, made myself a couple of sandwiches, and then I put the rest of the ham in the fridge
+  1. He put the plates into the cupboard
+  2. I took the ham out of the fridge, made myself a couple of sandwiches, and then I put the rest of the ham back in the fridge
   3. I usually sit on the sofa, and my husband sits on the armchair
   4. I was bored, so I turned off the television
   5. You normally cook it in the oven for about forty minutes
-  6. I took the butter of the fridge and put it on the table
+  6. I took the butter out of the fridge and put it on the table
 
 50.5
   1. Washing machine
