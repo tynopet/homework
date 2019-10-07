@@ -3,7 +3,7 @@
     She had gone out.
   2. You went back to your home town after many years. It wasn't the same as before.
     It had changed a lot.
-  3. I invite Rachel to the party, but she couldn't come.
+  3. I invited Rachel to the party, but she couldn't come.
     She had arranged to do something else.
   4. You went to the cinema last night. You got to the cinema late.
     The film had already started.
@@ -33,5 +33,5 @@
     1. Was Pual at the party when you arrived? No, he had gone home.
     2. I felt very tired when I got home, so I went straight to bed.
     3. The house was very quiet when I got home. Everybody had gone to bed.
-    4. Sorry, I'm late. The car had broken down on my way here.
+    4. Sorry, I'm late. The car broke down on my way here.
     5. We were driving along the road when we saw a car which had broken down, so we stopped to help.

@@ -15,7 +15,7 @@
   5. She washed the clothes
   6. She made the bed
 
-  1. I go shopping one of three days
+  1. I go shopping once in three days
   2. I sometimes iron the clothes
   3. I often wash dishes
   4. I sometimes hoover the floor
