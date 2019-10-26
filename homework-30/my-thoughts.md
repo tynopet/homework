@@ -7,9 +7,9 @@ I thought, that the ArtPlay is an uncommon place for the first-time tourist in M
 But I couldn't recognize your thoughts about this place.
 And I hadn't known the fast path to that place.
 I don't understand a stand-up.
-I watched it before and I liked it, but some time ago I stopped like it.
+I watched it before and I liked it, but some time ago I stopped liking it.
 I don't like Arbat street.
-It is a very hype place and I don't like the people who are there and I don't like the street view.
+It is a very hyped place and I don't like the people who are there and I don't like the street view.
 Taisia was a very strange person.
 She was like an alien, but she was funny.
 And you were serious, like her mother or some kind of.
