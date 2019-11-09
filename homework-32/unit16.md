@@ -1,5 +1,5 @@
 16.1
-  1. I was very tired when I arrived home. I've been working hard all day.
+  1. I was very tired when I arrived home. I had been working hard all day.
   2. The two boys came into the house. They had a football and they were both very tired.
     They had been playing football.
   3. I was disappointed when I had to cancel my holiday. I had been looking forward to it.
@@ -20,11 +20,11 @@
 16.3
   1. It was very noisy next door. Our neighbours were having a party.
   2. We were good friends. We had known each other for years.
-  3. John and I went for a walk. I had difficulty keeping up with him because he walked so fast.
+  3. John and I went for a walk. I had difficulty keeping up with him because he was walking so fast.
   4. Sue was sitting on the ground. She was out of breath. She had been running.
   5. When I arrived, everybody was sitting round the table with their mouths full. They were eating.
   6. When I arrived, everybody was sitting round the table and talking. Their mouths were empty, but their stomachs were full. They had eaten.
   7. James was on his hands and knees on the floor. He was looking for his contact lens.
   8. When I arrived, Kate was waiting for me. She was annoyed because I was late and she had been waiting for a long time.
-  9. I was sad when I sold my car. I was having it for a very long time.
+  9. I was sad when I sold my car. I had had it for a very long time.
   10. We were extremely tired at the end of the journey. We had been traveling for more than 24 hours.
