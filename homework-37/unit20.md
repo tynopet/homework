@@ -13,9 +13,9 @@
 
 20.3
   1. It's going to rain.
-  2. He is going to late.
+  2. He is going to be late.
   3. The boat is going to sink.
-  4. They are going to run out.
+  4. They are going to run out of the petrol.
 
 20.4
   1. We were going to travel by train, but then we decided to go by car instead.
@@ -24,4 +24,4 @@
   4. I was going to phone Jane, but I decided to email her instead.
   5. When I last time saw Tim he was going to give up his job.
     - That's right, but in the end, he decided to stay where he was.
-  6. I'm sorry I interrupted you. What are you going to say?
+  6. I'm sorry I interrupted you. What were you going to say?
