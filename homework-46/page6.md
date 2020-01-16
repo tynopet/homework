@@ -4,7 +4,7 @@
   3.
   4. ...that the other Umberto had died in a mysterious shooting accident.
   5. might
-  6. exactly (?)
+  6. the best
   7. ?
   8. ?
 
@@ -33,15 +33,15 @@
 
 4. 
   A.
-    1. She likes to listen to music.
+    1. She likes listening to music.
     2. I'm an architect.
     3. Are you feeling alright?
     4. When can I visit your house?
-    5. Let's discuss this tomorrow. (?)
+    5. Let's discuss this tomorrow.
     6. He doesn't come here often.
     7. We come from Germany.
     8. Where did you go yesterday?
-    9. I lived in this town all my life (?)
+    9. I have been living in this town all my life.
     10. My wife cooks really good.
 
   B.
