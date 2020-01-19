@@ -14,7 +14,7 @@
   B.
     1. Bilingualism is an advantage in today's world.
     2. My mother is fluent in several languages - she is really clever.
-    3. I wish I could use language accuracy. I make a lot of mistakes.
+    3. I wish I could use language more accurate. I make a lot of mistakes.
     4. What is your mother tongue? You sound German.
     5. He always feels like a foreigner in his own country because he hasn't lived there for years.
     6. I don't like slang; I prefer it when people use standard English (why it?)
@@ -47,4 +47,4 @@
     3. Where is the dictionary?
     4. Why did people stop speaking Latin?
     5. What did you learn last lesson?
-    6. What is your name mean?
+    6. What does your name mean?
