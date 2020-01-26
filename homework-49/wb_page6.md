@@ -1,7 +1,7 @@
 * 1.
   * B.
     1. This is Marianna, my fiancee. We're getting married next year.
-    2. Dave is my classmate. We're both in Year 12 at Cockethorpe Hight School.
+    2. Dave is my classmate. We're both in Year 12 at Cockethorpe High School.
     3. She asked her boss for some time off work, but he said no.
     4. I'm a member of a swimming club. We meet twice a week at the sports centre.
     5. Luisa got 100% in her exam. She's the best pupil in my class.
@@ -27,13 +27,13 @@
   3. I don't like football.
      Why didn't you tell me earlier? The tickets cost 70 each.
   4. Did you hear about the accident last week?
-     Yes, the boys was driving along Court Street when a motorbike hit the car.
+     Yes, the boys were driving along Court Street when a motorbike hit the car.
   5. Do you need somewhere to stay? I have a spare room.
-     No, it's ok. I'm going to stay with my sister.
+     No, it's ok. I'm staying with my sister.
   6. I'm reading a novel called The Luminaries at the moment.
      Oh yes. I found it so boring that I didn't finish it.
   7. I like an early start, so I get up at six every morning.
-     Me too. I always had left the house by seven.
+     Me too. I always leave the house by seven.
   8. John! Are you ready? We are waiting for you!
      Ok, here I am! Sorry about that. I looked for my hat! I couldn't find it anywhere.
 
