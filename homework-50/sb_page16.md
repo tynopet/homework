@@ -8,7 +8,7 @@ They are edgy * 1.
 
 * 2.
   * B.
-    1. The idea o painting when you very totally blind seemed nonsense to me
+    1. The idea o painting when you very totally blind seemed a nonsense to me
     2. I wonder what would happen if I give that a go. 
     3. I had the most extraordinary sensation.
     4. Pre total blindness, I would say I was a landscape painter
