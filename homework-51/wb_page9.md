@@ -12,8 +12,8 @@
   2. How many films have you acted in so far?
      I've acted in seven films up to now.
   3. He's only twenty-two years old, but he has traveled all around the world.
-     Which countries did he visit?
-  4. She won four Oscars for her performances.
+     Which countries has he visited?
+  4. She has won four Oscars for her performances.
      That's right. She won an award for Best Actress last month.
   5. They lived in California for twenty years.
      When did they move to Texas?
