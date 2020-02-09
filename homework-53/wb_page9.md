@@ -1,6 +1,6 @@
 4.
   1. Have you been here before?
-     Yes, visited Naples a few times
+     Yes, we've visited Naples a few times.
   2. Have you had time to see the museum yet?
      No, we haven't had time.
   3. Did you find your hotel OK?

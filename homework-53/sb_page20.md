@@ -18,6 +18,6 @@
   3. Some of the best films in recent years have been based on true stories. - pp
   4. From these films, we've learned about the difficult lives of some of the biggest music legends. - pp
   5. Many of these actors have won Oscars for their roles. - pp (1)
-  6. Helen Mirren met the Queen for tea. - ps (4)
-  7. Josh Brolin phoned hotels in Texas to listen to their accent. - ps
+  6. Helen Mirren met the Queen for tea. - ps
+  7. Josh Brolin phoned hotels in Texas to listen to their accent. - ps (4)
   8. Tatou wanted to look like Coco Chanel so that we would recognise her image. - ps
