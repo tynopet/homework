@@ -8,8 +8,8 @@
     6 - a
     7 - d
     8 - f
-    9 - b
-    10 - g
+    9 - g
+    10 - b
 
   B.
     Do you like things that were made by hand?
