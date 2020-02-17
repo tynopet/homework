@@ -28,7 +28,7 @@
 
   D.
     1. barely out of their teens
-    2. immortalised in film history
+    2. immortalised
     3. rebellious attitude
-    4. loved
+    4. lasting impression
     5. assumed
