@@ -30,6 +30,6 @@
     d.
         The president of Russia proposed changes in the constitution. He wanted to forbid to be a president more than two times ever. 
 
-        Valentina Tereshkova, the State duma deputy and first women-cosmonaut proposed to refresh Putin's presidential term because of the constitution changes.
+        Valentina Tereshkova, the State duma deputy and first woman-cosmonaut proposed to refresh Putin's presidential term because of the constitution changes.
 
-        It means if the constitutional changes will be approved Putin can be chosen another 12 years.
+        It means if the constitutional changes are approved, Putin can be chosen for another 12 years.
