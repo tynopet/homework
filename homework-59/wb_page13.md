@@ -1,6 +1,6 @@
 1. 
     1. President Obama told a joke and everybody laughed.
-    2. The manager called to said she was sorry about what had happened.
+    2. The manager called to say she was sorry about what had happened.
     3. I still can't believe that he told me such a big lie. I'm furious with him.
     4. Someone once told me a story about that.
     5. Listen. Why don't you just say what you mean?
@@ -12,8 +12,8 @@
     - so
     - In the beggining
     - Before long
-    - So
-    - Before long
+    - The next thing I know
+    - In the end
     - Anyway
 
 3. 

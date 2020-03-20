@@ -9,6 +9,6 @@
         1 - Rob
         2 - Jilly
         3 - Danny
-        4 - People outside the statinon
+        4 - People outside the station
         5 - Maria
         6 - John Lennon
