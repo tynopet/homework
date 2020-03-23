@@ -7,11 +7,11 @@
     6. The teacher was impressed by her fluency and how easily she spoke.
 
 2. 
-    - Who are you work for?
+    - Who do you work for?
     - I work for a small publishing company called Calinet.
     - What type of things do you do?
     - I do a lot of things - some editing, contacting authors.
-    - What problems are you deal?
+    - What problems do you deal with?
     - I deal with problems concerning the manuscripts: mistakes, wrong length, wrong style.
     - When did you start working there?
     - I started working there in 2007.
@@ -30,14 +30,14 @@
 
 4. 
     Hello everybody! My name is Shane Towers. I was a teacher, but at the moment I took a year off to finish my Master's Degree. I didn't start working with children until 2005, but now I love it. 
-    Today I'm going to talk about Theatre of the Oppressed. I first saw the name when I was looking through some articles for my degree. I was reading the article about drama in education and suddenly the name jumped out at me: "Theatre of the Oppressed". In my country, the theatre isn't usually for or about oppressed; it's for rich or middle-class people. I want to find out more...
+    Today I'm going to talk about Theatre of the Oppressed. I first saw the name when I was looking through some articles for my degree. I was reading an article about drama in education and suddenly the name jumped out at me: "Theatre of the Oppressed". In my country, the theatre isn't usually for or about oppressed; it's for rich or middle-class people. I wanted to find out more...
 
 5. 
     1. I did a lot of research before I got my degree.
     2. A year ago she got up a new hobby: acting. Then she took a part in her first play.
     3. Last night we did some work on the proposal and then we went for a meal.
-    4. Can you take me a favour? Can you help me to do this test?
-    5. You go after your father. I hope you don't get grey when you're twenty-five, too.
+    4. Can you do me a favour? Can you help me to do this test?
+    5. You took after your father. I hope you don't get grey when you're twenty-five, too.
     6. Eventually, I took off Jane because she always got angry for no reason.
 
 6. 
@@ -62,13 +62,13 @@
     11 - 👌
     12 - for
     13 - 👌
-    14 - Er
+    14 - 👌
 
 8. 
     1. You're welcome
     2. No problem
     3. Of course.
-    4. You're right
+    4. You're correct
     5. Go ahead
     6. I see
     7. That's right
@@ -76,8 +76,8 @@
     9. Please continue
 
 9. 
-    1. This biopic describes the life of Cesar Chavez, the leader who organized workers' strikes so that people could work after fair conditions.
-    2. The psychological thriller tells the story of a fugitive who hides from the police while trying to prove that he is innocent.
+    1. This biopic describes the life of Cesar Chavez, the leader who organized workers' strikes so that people could work under fair conditions.
+    2. This psychological thriller tells the story of a fugitive who hides from the police while trying to prove that he is innocent.
     3. This is a very funny romantic comedy that tells the story of two people who fall in love with their cars crash on a small road.
     4. This science fiction film describes what happens when aliens attack planet Earth, attempting to destroy everything.
     5. This children's fantasy begins when a hole opens up in the ground after an earthquake and a giant, friendly creature comes out to rescue everybody.
@@ -90,6 +90,6 @@
     3 - haven't finished it yet
     4 - did you go
     5 - 👌
-    6 - broke
+    6 - 👌
     7 - didn't sell
     8 - 👌
