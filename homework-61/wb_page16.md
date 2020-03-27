@@ -13,9 +13,9 @@
         - I explained that I didn't mean to break the window! I said sorry!
         - She isn't very friendly, is she? She never says 'hello' when I see her in the street
         - He didn't want to make her cry, so instead of telling the truth, he told a white lie
-        - Instead of talking for hours around the issue, why don't you  just say what you mean
+        - Instead of talking for hours around the issue, why don't you just say what you mean
 
-15.
+15. 
     - This happened
     - happened
     - Anyway, in
