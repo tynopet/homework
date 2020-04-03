@@ -13,7 +13,7 @@
         1. science fiction, fantasy, detective.
 
 3.
-    Sasha woke up late because she had forgotten to set her alarm clock. She was having breakfast whe the telephone rang. It was her boss.He wanted to know why she didnt finish the report that he had asked her to do. She quickly left the house to go to work. She was standing on the train when she noticed that lots of people looked at her feet. Then, she realised that she had forgotten to put her shoes on. She weared her slippers.
+    Sasha woke up late because she had forgotten to set her alarm clock. She was having breakfast when the telephone rang. It was her boss. He wanted to know why she didn't finish the report that he had asked her to do. She quickly left the house to go to work. She was standing on the train when she noticed that lots of people were looking at her feet. Then, she realised that she had forgotten to put her shoes on. She was wearing her slippers.
 
 4. 
     1. strike
