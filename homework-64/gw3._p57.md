@@ -24,7 +24,7 @@
     4. Jack must wear a suit and a tie at work because the manager says so.
     5. Antonio must be from Milan.
     6. Roger has to find a job soon.
-    7. You mustn't to use mobile phones inside the hospital.
+    7. You mustn't use mobile phones inside the hospital.
     8. Susan must work overtime because her boss says so.
 
 3. 
@@ -41,10 +41,10 @@
     1. Mark doesn't need to buy new clothes for the reception.
     2. You mustn't pick these flowers.
     3. Sarah has to type her compositions at university.
-    4. Paula needn't make the beds.
+    4. Paula didn't need to make the beds.
     5. You must obey the law.
     6. Bob needn't have waited for me.
     7. You mustn't throw litter on the beach.
     8. Ronald must be at home.
-    9. Alice needn't bake a cake for the party.
+    9. Alice didn't need to bake a cake for the party.
     10. George needn't have stayed at work late.
