@@ -3,18 +3,18 @@
     2. We can have lunch in half an hour.
     3. You don't have to work on Saturday.
     4. You should open a bank account.
-    5. She may forget to call.
-    6. He needn't has bought a gift.
+    5. She may have forgotten to call.
+    6. He needn't have bought a gift.
     7. Alice could be at the hairdresser's.
     8. You should have your car serviced.
-    9. Sylvia can't mean what she said.
+    9. Sylvia can't have ment what she said.
     10. He needn't have helped me.
     11. You mustn't take your bag into the building.
-    12. She has to understand what I was saying.
-    13. He may take the train to work this morning.
+    12. She must have understand what I was saying.
+    13. He may have took the train to work this morning.
     14. You aren't allowed to run in the corridors.
-    15. Could be Jane leave at the end of this week?
-    16. It's we likely to have a party for Simon's birthday.
+    15. Could Jane be leaving school at the end of this week?
+    16. It's likely we will have a party for Simon's birthday.
     17. I ought to start studying for my exams soon.
 
 24.
@@ -30,16 +30,16 @@
     4. - You needn't clean the floor.
        - Oh, have you done it already?
 
-    5. - Would we go for a walk this afternoon?
+    5. - Shall we go for a walk this afternoon?
        - Why not? It's a lovely day.
     
     6. - Can I have a milkshake, please?
-       - Yes, of course. What flavor would you like?
+       - Yes, of course. What flavour would you like?
 
     7. - May I borrow your pen, please?
        - Yes, of course. Be my guest.
 
-    8. - Would I pour you a glass of orange juice?
+    8. - Shall I pour you a glass of orange juice?
        - Yes, please. Could you put some ice in it, too?
 
     9. - I put your blue trousers in the washing machine.
