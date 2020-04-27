@@ -1,0 +1,5 @@
+What about my day?
+
+Hi Alina, yesterday I didn't know what to write in this email. But before I went to bed I opened WhatsApp and all of a sudden saw a new message of my neighbours. They wrote that I was flooding them! I was shocked. I looked for a leak and some time ago I found it. It was pressure reducer. I blocked the water and wrote them about it, and that I was going to call a plumber. But in the morning, when I tryed to make a workaround to get a shower, I found that the problem was not only in reducer! One of the pipes was leaking too. I called the plumber and he fixed the problem in one hour. But I don't understand my neighbours. They had written me that I was flooding them for one week. And, as I found out later, they had written in the chat that "Single-roomed flat is flooding us" on Wednesday. There is at least 3 single-roomed flats on the floor! And they wrote again on Sunday (and indicated the flat number). I'm wondering why they just didn't go up a floor and told me about the problem.
+
+Talk soon. Dmitry.
