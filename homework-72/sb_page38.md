@@ -4,7 +4,7 @@
         - She was speaking with a burger bar.
 
         - He made the reservation via the phone.
-        - He to stay in Sheldon hotel.
+        - He wants to stay in Sheldon hotel.
 
         - The show finishes at 7.
         - The show started at 5.
