@@ -11,7 +11,7 @@
     2. Where will you plan to stay?
     3. Are you going to speak to Ted tomorrow?
     4. Janine is unlikely to pass her exam.
-    5. There's going to storm.
+    5. There's going to be a storm.
     6. He could be the champion.
     7. Scientists are likely to find a cure for cancer.
     8. We may not attend the meeting.
@@ -21,11 +21,11 @@
 7. 
     1 - are
     2 - be
-    3 - will?
+    3 - won't
     4 - to 
     5 - to
     6 - be
-    7 - could
+    7 - will
     8 - are
 
 8. 
@@ -34,7 +34,7 @@
     3 - close to my heart
     4 - rat race 
     5 - keep my eye on
-    6 - running against the clock
+    6 - working against the clock
     7 - run out of time
     8 - hit the nail
     9 - a piece of cake
