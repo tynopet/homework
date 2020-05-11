@@ -3,7 +3,7 @@
     2. Why do you always have to leave things until the last minute?
     3. Sorry, I got distracted by the footbal on the television.
     4. You've got so many things to do. You'll have to prioritise and start with the most important.
-    5. I worked hard and got a lot og things done this morning.
+    5. I worked hard and got a lot of things done this morning.
     6. I'm afraid they're just wasting your time.
     7. I'd like to get things done ahead of time, so we can go on holiday.
     8. I keep putting off writing my essay.
@@ -17,12 +17,12 @@
     I'm going to be forty next month, so I'm having a big party. Lots of people are coming that I don't see very often, so I'm really looking forward to it. I'm organising a band, and lots of delicious food and drink, so everyone will have a good time.
 
 3. 
-    1. I might live in a foreign country in the long time
+    1. I might live in a foreign country in the long term
     2. I hope be retired in twenty years' time
     3. I will finish this course in a month or two
     4. I hope to write my autobiography a long time from now
     5. I want to buy a new car in the near future
-    6. I'm going to travelling next year
+    6. I'm going to go travelling next year
 
 4. 
     1. Man will not fly for fifty years
@@ -31,7 +31,7 @@
     4. By 1980 all power (electric, atomic, solar) is likely to be almost free
     5. The Japanise car industry is unlikely to be successful in the US market
     6. Man will never reach the Moon
-    7. Television won't very matter in your lifetime or mine
+    7. Television won't matter very much in your lifetime or mine
     8. The internet may become useful for business but never for the general public
 
 5. 
