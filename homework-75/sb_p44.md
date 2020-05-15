@@ -20,7 +20,7 @@
 
 3.
     1 - poor background
-    2 - stay in contact
+    2 - stay in contact with the office
     3 - work-life balance
     4 - put in the hours
     5 - careful spenders
