@@ -1,5 +1,5 @@
 2.
-    1 - shouldn't, e
+    1 - don't have to, e
     2 - shouldn't, i
     3 - should, b
     4 - mustn't, g
@@ -12,7 +12,7 @@
 
 3.
     1. You must tell him as soon as possible
-    2. I've finished the exercise. What I should to do now?
+    2. I've finished this exercise. What should I do now?
     3. The clients don't have to come to the office. We can meet them at the restaurant.
     4. I shouldn't tell you this, but the boss is leaving on Monday.
     5. Do we have to wear a uniform?
