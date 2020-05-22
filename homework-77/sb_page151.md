@@ -4,8 +4,8 @@
  - course
  - career
 
- - borrow
  - lend
+ - borrow
 
  - discussion
  - argument
