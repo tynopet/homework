@@ -1,7 +1,7 @@
 1.
-    Amy's job is a proffesional shopper. I wouldn't like to do it, because I don't like shopping.
-    Nicola's job is a ice-cream taster. I would like to try it, because it's interesting.
-    Luka's job is a lifeguard. I wouldn't like to do it, because I shouldn't spend much time under the Sun.
+    Amy's a proffesional shopper. I wouldn't like to do it, because I don't like shopping.
+    Nicola's a ice-cream taster. I would like to try it, because it's interesting.
+    Luca's a lifeguard. I wouldn't like to do it, because I shouldn't spend much time under the Sun.
 
 2.
     
