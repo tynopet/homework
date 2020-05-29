@@ -37,7 +37,7 @@
 
         - I've got to go to work now. I'll see you later.
         - Yes, don't forget we're meeting Chaz at 7.30.
-        - Don't worry. I'll be here.
+        - Don't worry. I'll be there.
 
         - Did you hear the joke about scarecrow?
         - No.
@@ -46,7 +46,7 @@
 
     b.
         - Can you remind me to call my brother later? It's his birthday.
-        - Did you remember about that couple who won millions of pounds on the Euro lottery?
+        - Did you hear about that couple who won millions of pounds on the Euro lottery?
         - I don't get paid enough. I need to get a new job.
         - We're having a meeting tomorrow morning. Don't forget!
         - I really enjoy my work. I find it interesting, and the people I work with are good fun.
