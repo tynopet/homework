@@ -22,21 +22,21 @@
 5. 
     I used to work for a big company. I used to work long hours and I would dream of living in a more exotic location, sitting on a beach with my laptop. Now I run my own website business. I don't earn as much money as I used to earn, but I'm much happier.
 
-    I used to work as a computer programmer. Most of the time, I would enjoy it. But I didn't used to like being in an office all day. So, I decided to get a job working outdoors. Now, I train people in forestry skills, so I'm outside most of the time. And my lifestyle is much healthier than it used to be.
+    I used to work as a computer programmer. Most of the time, I used to enjoy it. But I didn't used to like being in an office all day. So, I decided to get a job working outdoors. Now, I train people in forestry skills, so I'm outside most of the time. And my lifestyle is much healthier than it used to be.
 
 6. 
     a. 
         - Did you use to spend your holidays by the sea?
         - We didn't use to have a dog when I was a child.
         - I used to love reading in the evening, but now I'm too tired.
-        - I used to sat in my grandfather's studio and watched him paint.
+        - I used to seat in my grandfather's studio and watched him paint.
         - Children used to play around the streets it the old days, but there's nobody here now.
         - They used to live in the big house, but they had to move.
 
     b.
-        4, 6
+        4, 5, 1
 
-7. 
+8. 
     a. 
         Dear Ms. Nelson.
 
