@@ -12,11 +12,11 @@
 
 4.
     a.
-        - He gave him his (stick?) nameplate.
-        - Sorry about that.
-        - He ricive 3 calls.
-        - He bring him lunch
+        - He gave him his name plate.
+        - He will call her at lunch.
+        - He recieved 3 calls.
+        - He brought him lunch
         - "Good luck". I think it was his wife.
 
     c.
-        I think he feel terrible and confused.
+        I think he felt terrible and confused.
