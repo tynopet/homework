@@ -20,9 +20,9 @@
 
 4.
     1. My family used to live in Paris, but we moved when I was a teenager.
-    2. I used to spend a lot of time with my grandparents when I was younger.
+    2. I would spend a lot of time with my grandparents when I was younger.
     3. For my first job, I would wash dishes in a restaurant.
-    4. I wouldn't think money was important. Now I have lots of bills to pay.
+    4. I didn't use to think money was important. Now I have lots of bills to pay.
     5. We used to have a lot more free time before we had children.
     6. My best friend at school used to live just across the road from me.
 
