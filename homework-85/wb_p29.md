@@ -1,7 +1,7 @@
 5.
     1.
         - The picture dates back to the sixteenh century when it was...
-        - I didn't catch any of this,
+        - I didn't catch any of that.
 
     2.
         - So, you take the third turning on the right, go straight on for 200 meters, turn left, take the first right again and it's straight in front of you.
@@ -29,7 +29,7 @@
 
     8.
         - This desk is now closed.
-        - Som you're saying that we need to move to another desk?
+        - So, you're saying that we need to move to another desk?
 
     9.
         - I'm afraid you need to vacate the premises.
@@ -49,15 +49,15 @@
     - It's a fascinating story, really interesting. It's about a man who...
     - I love my job, but I should be earning a much bigger salary.
     - He was always telling the boss what to do and it the end, he got fired.
-    - I'm very nervous because I've got to go for this job in ??? tomorrow
+    - I'm very nervous because I've got to go for this job in interview tomorrow.
     - I can't believe how angry he was. He was absolutely furious.
     - I'm sure she'll do well in her new job. She's very hard-working.
 
 7.
     oOo
-        amazing, successful, interview, delicious, exhausted, impossible
+        amazing, successful, delicious, exhausted, impossible
     Ooo
-        salary, furious, boiling, difficult
+        salary, furious, boiling, difficult, interview
     Oo
         tasty, leader, freezing
     oOoo
@@ -71,7 +71,7 @@
     5. The sign says you have to keep your dog on a lead.
     6. You mustn't smoke anywhere in the building. It sin't allowed.
     7. You must wear a helmet when you ride your motorbike. It's the law.
-    8. Do children must go to the school on Saturdays?
+    8. Do children have to go to the school on Saturdays?
     9. You shouldn't wear jeans to a job interview.
     10. You don't have to pay to coffee. It's free.
 
