@@ -1,0 +1,10 @@
+10.
+    The advantages and disadvantages of computer games.
+
+    More and more people are playing computer games. It's great entertainment for all people. Computer, console, mobile, and VR games have long been with us. And each person can find a game for yourself on any platform. Let's see the good and bad sides of gaming.
+
+    One of the main advantages of computer games is a great relaxation for players. A player can do whatever he or she wants in a safe virtual world and enjoy it. Racer, astronaut, mage, or animal - you can choose every character. And behind games is standing the giant industry who produce them. A lot of game designers, producers, programmers, screenwriters, and other people are doing games. And many things in computer technology were invented or improved in the process of game development like realistic graphics, internet traffic optimization, etc. And some computer games now is a sport. We have a lot of cybersports tournaments with a huge prize and people passionate about it because it's easier to start playing games and imagine yourself in the place of his idol. And I know that some social research based on people's activities in massive multiple online games.
+
+    On the other hand, a lot of people are losing their connection with reality and computer games become their addiction and they spent there a lot of time to become more and more unsocial. And another thing is money-drain (free to pay) games. It's a category of similar games where you have some resources and you can spend them to improve your character/city/etc. And you can wait some time to get additional resources or pay real money for them. But your progress in the game is fake, but a lot of people spend huge money there.
+
+    In my opinion computer games is a good thing in small portions. In general, the advantages outweigh the disadvantages, but I think the addiction to computer games should be equal to other "light" addictions and addicted people should get help. 
