@@ -13,7 +13,7 @@
         6 - b
 
 2.
-    - I love my digital camera. It was more expensive my last one, but the pictures are much better quality and it's easier to use.
+    - I love my digital camera. It was more expensive then my last one, but the pictures are much better quality and it's easier to use.
     - But it's much bigger. Isn't it heavier to carry around with you?
     - Actually, it was one of the lightest models in the shop. Although you can get smaller and cheaper cameras, they're not as good as this one.
 
