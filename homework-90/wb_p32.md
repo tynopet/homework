@@ -11,8 +11,8 @@
         - Nguyen
 
 4.
-    1. He's six months old. He's been to the doctor to get his genetic engineering
-    2. We are running out of coal, so the government is looking at new ways of making electricity networks.
+    1. He's six months old. He's been to the doctor to get his vaccinations
+    2. We are running out of coal, so the government is looking at new ways of making electricity.
     3. The government is planning to build new nuclear power stations, but many people are worried that they are too dangerous.
     4. The company has just invested thousands of dollars in its new computer network to improve communication between employees.
     5. It sounds like you've got a chest infection. I think you need some antibiotics.

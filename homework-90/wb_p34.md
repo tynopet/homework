@@ -11,7 +11,7 @@
 2.
     Everyone involved in medical research is eventually faced with a difficult question who will be my guinea pig? Who will be the first person to try this new medicine before we know it works?
     If we look into the history of drug testing, we find many researchers not only debate this issue, but that a few have a surprising result; they use themselves as guinea pigs.
-    When scientist Jonas Salk was investigating a new polio vaccine in the 1950s, he tried the drug on himself, his wife and children. It worked. Someone later inquiries about who held the patent (the right to sell the medicine). Salk's research showed his character: he wondered why anyone wanted to make money from something that the world needed.
+    When scientist Jonas Salk was investigating a new polio vaccine in the 1950s, he tried the drug on himself, his wife and children. It worked. Someone later inquired about who held the patent (the right to sell the medicine). Salk's reply showed his character: he wondered why anyone wanted to make money from something that the world needed.
 
 4.
     1. You really like Mary, don't you?
