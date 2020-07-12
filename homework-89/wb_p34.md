@@ -1,0 +1,11 @@
+3.
+    - You're from France, aren't you?
+    - She broke a world record, didn't she?
+    - They haven't seen us, have they?
+    - Don won't tell anybody, will he?
+    - That house looks nice, doesn't it?
+    - We didn't see that film, did we?
+    - It hasn't rained for months, has it?
+    - You will come tomorrow, won't you?
+    - The shop doesn't open at 6 a.m., does it?
+    - You stopped smoking last year, didn't you?
