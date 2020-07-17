@@ -1,0 +1,1 @@
+I think my favorite emotion it's a slight frustration. Firstly it's a little bit funny. Secondly, it can show a person without any emotion control. And sometimes when I'm frustrated I feel alive.
